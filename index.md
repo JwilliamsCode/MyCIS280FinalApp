@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to EllieApp
 
-You can use the [editor on GitHub](https://github.com/JwilliamsCode/MyCIS280FinalApp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+EllieApp is a childrens learning app developed primarily for my toddler cousin to help with learns the alphabet, numbers, word association, etc in a way that is fun and engaging for him.
 
 ### Markdown
 
